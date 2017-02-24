@@ -1,0 +1,86 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background-color: deepskyblue;
+}
+
+.title {
+    font-family: Arial;
+    font-size: 40px;
+    color: deepskyblue;
+    background-color: white;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+ul {
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    color: white;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: skyblue;
+}
+
+.button {
+    background-color: white;
+    border: none;
+    color: deepskyblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: skyblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.podatki {
+    color: white;
+    font-family: Arial;
+    border: 0px;
+}
+
+span {
+    font-weight: 800;
+    border: 0px;
+    margin-left: 20px;
+    
+}
