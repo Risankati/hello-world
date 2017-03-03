@@ -1,0 +1,125 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.img-logo {
+    width: 100px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    font-size: 38px;
+    color: #555555;
+    text-align:center;
+}
+
+.title-div {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subtitle {
+    font-size: 18px;
+    text-align:center;
+    color: #555555;
+}
+
+.subtitle-div {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.block {
+background-color: #f7f7f7;
+padding: 20px 25px 30px;
+margin: 0 auto 25px;
+width: 304px;
+border-radius: 2px;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.default-image {
+    width: 96px;
+    height: 96px;
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+    
+}
+
+.input {
+    display: inline-block;
+    height: 36px;
+    width: 100%;
+    padding: 0 8px;
+    background: #fff;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    box-sizing: border-box;
+    border-radius: 1px;
+    font-size: 15px;
+    color: #404040;
+    position: relative;
+}
+
+.button {
+    border: 1px solid #3079ed;
+    color: #fff;
+    text-shadow: 0 1px rgba(0,0,0,0.1);
+    background-color: #4d90fe;
+    padding: 0px 8px;
+    line-height: 36px;
+    border-radius: 3px;
+    cursor: default;
+    width: 100%;
+    margin-top: 6px;
+}
+.help {
+    color: #427fed;
+    font-size: 13px;
+    text-align: right;
+}
+
+.help:hover {
+    text-decoration: underline;
+}
+
+.create-account-div {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.create-account {
+     color: #427fed;
+    font-size: 13px;
+    text-align: center;
+}
+
+.create-account:hover {
+    text-decoration: underline;
+}
+
+.tagline-div {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.tagline {
+    font-size: 12px;
+    text-align: center;
+    color: #565656;
+}
+
+.img-tagline {
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+}
